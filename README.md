@@ -28,7 +28,7 @@ Decision Tree                                 96.95%
 Neural Network                                98.92%
  
 
-To run the jupyter notebook file, please follow the instructions as below:
+To run the project, please follow the instructions as below:
 
 Pre-Requisites:
  1. Install Jupyter Notebook.
